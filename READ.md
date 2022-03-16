@@ -12,4 +12,4 @@ Trying out git options
 
 The features of git add and commit are not properly showing up. This is a test.
 
-Trying again
+Trying again to see new changes
