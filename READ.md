@@ -21,3 +21,7 @@ Done in the same format as previous one.
 Final update including final recipe
 
 Included final recipe: Agua dulce. This finishes the projects HTML. If necessary, next steps are CSS styling.
+
+Added CSS Styling
+
+Changed background, color and edited body, h1 and h2.

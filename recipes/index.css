@@ -1,0 +1,15 @@
+body {
+    background: black;
+    color: white;
+    max-width: 800px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 90px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 60px;
+}
