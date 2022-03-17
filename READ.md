@@ -17,3 +17,7 @@ Trying again to see new changes
 Added and completed new section
 
 Done in the same format as previous one.
+
+Final update including final recipe
+
+Included final recipe: Agua dulce. This finishes the projects HTML. If necessary, next steps are CSS styling.
