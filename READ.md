@@ -13,3 +13,7 @@ Trying out git options
 The features of git add and commit are not properly showing up. This is a test.
 
 Trying again to see new changes
+
+Added and completed new section
+
+Done in the same format as previous one.
